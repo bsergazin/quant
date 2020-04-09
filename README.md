@@ -4,5 +4,12 @@ This code describes the process of building equity investment portfolio by maxim
 ![Image description](Images/Portfolio.png)
 
 ## Terms
-To estimate return and risk I used 5Y cumulative return rate and max drawdown:
+To estimate return and risk I used 5Y cumulative return: 
+
+![Image description](Images/Return.png)
+
+and max drawdown:
+
+![Image description](Images/Drawdown.png)
+
 
